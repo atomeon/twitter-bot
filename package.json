@@ -1,0 +1,16 @@
+{
+  "name": "twitterhomebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "app.js",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.9",
+    "twitter-node-client": "0.0.6"
+  }
+}
